@@ -10,9 +10,12 @@
 body{
     background-color:#0C0A3E;
     font-family: 'Merienda One', cursive;
+    padding: 20px;
+    height: 100vh;
 }
 .container{
-    width: 450px;
+   max-width: 100%;
+    width: 500px;
     margin: auto;
     background-color:#F5F7F3; 
     border: 1px solid black;
