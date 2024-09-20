@@ -8,6 +8,7 @@ This repository contains a collection of frontend projects.Each project is built
         <td>01</td>
         <td>Random Quote Generator</td>
         <td><a href="./project-4_random_quote_generator">Click Here</a></td>
+        <td><a href="https://uyfudywg.github.io/frontend-projects/">live</a></td>
     </tr>
 </table>
 
